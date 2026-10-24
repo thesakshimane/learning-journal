@@ -1,0 +1,7 @@
+- Python abstracts so much under the hood.
+- Writing performant application in Python requires understanding how the interpreter (primarily CPython) handles objects in memory.
+- Python utilizes private heap space to manage all of its data structures and objects.
+
+- Python is known for its clean readable and concise syntax.
+
+- Writing Pythonic code means adhering to the conventions and idoms that make your code more intuitive, maintainable and elegant.
